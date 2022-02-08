@@ -5,3 +5,16 @@
 - körte
 - répa
 - saláta
+- meggy
+- cseresznye
+- dinnye
+- szeder
+- eper
+- szamócs
+- ananász
+- birsalma
+- szilva
+- zeller
+- karalábé
+- licsi
+- papaya
