@@ -6,5 +6,5 @@
 - répa
 - saláta
 
-## GitHub repó url címe:
+## GitHub repó URL címe:
 https://github.com/nitslaszlo/GitProjekt
